@@ -13,7 +13,7 @@ A lot of great functionality is locked behind UnityExplorer however. Here's how 
 
 ## 1. Downloading the correct version of UnityExplorer
 
-Go to the [UnityExplorer GitHub releases page](https://github.com/sinai-dev/UnityExplorer/releases/latest) and download the file "UnityExplorer.BepInEx.IL2CPP.zip". To download it directly, click [here](https://github.com/sinai-dev/UnityExplorer/releases/download/latest/UnityExplorer.BepInEx.IL2CPP.zip).
+Go to the [UnityExplorer GitHub releases page](https://github.com/sinai-dev/UnityExplorer/releases/latest) and download the file "UnityExplorer.BepInEx.IL2CPP.zip". To download it directly, click [here](https://github.com/sinai-dev/UnityExplorer/releases/latest/download/UnityExplorer.BepInEx.IL2CPP.zip).
 
 ## 2. Extracting the files
 
