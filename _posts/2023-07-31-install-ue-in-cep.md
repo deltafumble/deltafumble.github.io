@@ -4,7 +4,7 @@ date: 2023-07-31 15:00:00 -0004
 author: delta
 tags: [fallguys, modding, tutorial]
 image:
-    path: https://pbs.twimg.com/media/F2XOuFsXQAA4qW8?format=png
+    path: https://user-images.githubusercontent.com/104696918/258809816-44440c15-26de-4a5d-bab6-451845ef5f71.png
 ---
 
 With the release of [kota69th's Creative Expansion Pack](https://github.com/kota69th/CreativeExpansionPack)  (commonly refered to as CEP), we are able to build great creative rounds without limitations set by Mediatonic.
